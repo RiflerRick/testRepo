@@ -1,2 +1,2 @@
 # testRepo
-testing for forks
+testing for dealing with forks of repos: fetching, merging, rebasing
